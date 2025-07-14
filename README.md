@@ -1,4 +1,4 @@
-# 🧠 LLM sebagai Market Analyst
+# LLM sebagai Market Analyst
 **Bisakah AI merangkum sentimen investor dari komentar sosial media secara otomatis?**
 
 Project ini menggunakan Large Language Models (LLM) untuk menganalisis dan membuat ringkasan pasar saham India berdasarkan komentar investor retail di sosial media (Twitter). Project ini menggunakan language model dari IBM, yaitu **IBM granite-3.3-8b-instruct**. Sistem ini dapat mengklasifikasi, menganalisis, dan merangkum insight pasar.
@@ -51,7 +51,7 @@ Contoh:
 
 ---
 
-## 📊 Insight & Visualisasi
+## Insight & Visualisasi
 
 - **Distribusi sentimen**: Mayoritas komentar adalah bullish (>60%)
 - **Top saham dibahas**: TCS, INFY, RELIANCE
@@ -103,5 +103,5 @@ Visualisasi:
 
 ---
 
-## 📬 Kontak
+## Kontak
 Proyek ini dibuat oleh Steven Andre Gonassis, sebagai bagian dari Capstone Project Hacktiv8: Data Summarization and Classification using IBM Granite.  
